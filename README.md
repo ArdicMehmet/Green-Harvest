@@ -1,6 +1,6 @@
 This project is prepare for Goit task
 
-Technologies : Html5, Css3, Javascript, Retina Screen, Css Count Function, Dpi Technology
+Technologies : Html5, Css3, Javascript, Retina Screen, Css Count Function, Dpi Technology.
 
 Live : https://tech-titans-tt.github.io/Green-Harvest/
 
